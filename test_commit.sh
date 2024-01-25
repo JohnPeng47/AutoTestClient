@@ -1,1 +1,1 @@
-echo HELLO >> README.md && git add README.md && git commit -m "testing hook" 
+echo HELLO >> .nonsense && git add .nonsense && git commit -m "testing hook"
