@@ -1,0 +1,1 @@
+cp post-commit.py .git/scripts/post-commit.py
